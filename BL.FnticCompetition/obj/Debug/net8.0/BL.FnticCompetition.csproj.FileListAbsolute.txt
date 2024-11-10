@@ -1,0 +1,15 @@
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/bin/Debug/net8.0/BL.FnticCompetition.deps.json
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/bin/Debug/net8.0/BL.FnticCompetition.dll
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/bin/Debug/net8.0/BL.FnticCompetition.pdb
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/obj/Debug/net8.0/BL.FnticCompetition.GeneratedMSBuildEditorConfig.editorconfig
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/obj/Debug/net8.0/BL.FnticCompetition.AssemblyInfoInputs.cache
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/obj/Debug/net8.0/BL.FnticCompetition.AssemblyInfo.cs
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/obj/Debug/net8.0/BL.FnticCompetition.csproj.CoreCompileInputs.cache
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/obj/Debug/net8.0/BL.FnticCompetition.dll
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/obj/Debug/net8.0/refint/BL.FnticCompetition.dll
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/obj/Debug/net8.0/BL.FnticCompetition.pdb
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/obj/Debug/net8.0/ref/BL.FnticCompetition.dll
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/bin/Debug/net8.0/DL.FnticCompetition.dll
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/bin/Debug/net8.0/DL.FnticCompetition.pdb
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/obj/Debug/net8.0/BL.FnticCompetition.csproj.AssemblyReference.cache
+/media/hexatox/MyDisk/Repositories/FnticCompetition/BL.FnticCompetition/obj/Debug/net8.0/BL.FnticCompetition.csproj.CopyComplete
